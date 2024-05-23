@@ -4,7 +4,7 @@ This project demonstrates how to create a "Multi-Heart Cursor" effect using HTML
 
 ## Demo
 
-You can see a live demo of the project [here](https://logusivam.github.io/multiple-heart/).
+You can see a live demo of the project [here](https://logusivam.github.io/multi_heart_cursor/).
 
 ## Features
 

@@ -6,6 +6,8 @@ This project demonstrates how to create a "Multi-Heart Cursor" effect using HTML
 
 You can see a live demo of the project [here](https://logusivam.github.io/multi_heart_cursor/).
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Features
 
 - **Interactive Design**: Hearts follow the cursor movement, providing a fun and engaging user experience.
